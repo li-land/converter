@@ -1,0 +1,6 @@
+@import './reset';
+@import 'shared/styles/variables.scss';
+
+body {
+	background-color: $mainBgColor;
+}

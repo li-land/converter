@@ -1,8 +1,8 @@
-import './app.scss'
+import './styles/app.scss';
 
 function App() {
   return (
-    <div className="app"></div>
+    <div></div>
   );
 }
 
